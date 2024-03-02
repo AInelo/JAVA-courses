@@ -21,3 +21,5 @@ jshell> /list
 
 jshell>
 ```
+
+1. JAVA is case sensitive Langage
