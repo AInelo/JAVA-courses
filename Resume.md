@@ -23,3 +23,14 @@ jshell>
 ```
 
 1. JAVA is case sensitive Langage
+
+2. Wrapper Class in JAVA
+
+byte    ====>   Byte
+short   ====>   Short
+char    ====>   Character
+int     ====>   Integer
+long    ====>   Long
+float   ====>   Float
+double  ====>   Double
+boolean ====>   Boolean 
